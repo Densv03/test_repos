@@ -1,0 +1,8 @@
+﻿  checkInput.cpp
+C:\Users\Dionisiy\Desktop\lab4\lab4\checkInput.cpp(22,4): error C2100: недопустимое косвенное обращение
+C:\Users\Dionisiy\Desktop\lab4\lab4\checkInput.cpp(22,39): error C2106: =: левый операнд должен быть левосторонним значением
+  Source.cpp
+C:\Users\Dionisiy\Desktop\lab4\lab4\Source.cpp(12,5): error C2040: posArr: "int [100]" отличается по уровням косвенного обращения от "int"
+C:\Users\Dionisiy\Desktop\lab4\lab4\Source.cpp(25,4): error C2100: недопустимое косвенное обращение
+C:\Users\Dionisiy\Desktop\lab4\lab4\Source.cpp(25,39): error C2106: =: левый операнд должен быть левосторонним значением
+  Создание кода...
