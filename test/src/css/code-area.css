@@ -1,0 +1,19 @@
+.code-wrapper {
+    margin-top: 10vh;
+    min-height: 80vh;
+    background-color: var(--primary);
+    color: var(--primary-text);
+    padding: 10px 40px;
+}
+
+.code-wrapper .line-numbers {
+    width: 20px;
+}
+
+.code-wrapper .code {
+    width: 100%;
+}
+
+.code-wrapper .code:focus-visible {
+    outline: none;
+}
